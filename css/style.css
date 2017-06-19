@@ -1,0 +1,514 @@
+body {
+  color: #444444;
+
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.7;
+
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2 {
+    transition: .4s;
+
+    font-family: 'Sansita', 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+    font-style: italic;
+}
+
+h1 {
+  float: left;
+
+  margin-top: 1.3rem;
+  margin-bottom: 1.8rem;
+  margin-left: 2rem;
+
+  letter-spacing: 0;
+
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+h2 {
+  letter-spacing: -.01em;
+
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+a {
+  transition: .4s;
+  text-decoration: none;
+
+  color: #568AC6;
+}
+
+a:hover,
+a h1:hover,
+a h2:hover {
+  transition: .4s;
+
+  color: #355c88;
+}
+
+.container {
+  min-height: calc(100vh - 12rem);
+}
+
+.content-block {
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+
+  border-bottom: 1px solid #eaeaea;
+}
+
+.content-block p:last-child {
+  margin-bottom: 0;
+}
+
+.item-box {
+  overflow: auto;
+
+  margin-top: 2rem;
+  padding: 1rem;
+
+  border: 1px solid #568AC6;
+  border-radius: 10px;
+}
+
+
+.emphasis {
+  font-weight: bold;
+}
+
+.blog-list li {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+
+  border-bottom: 1px solid #eaeaea;
+}
+
+.blog-list img{
+  margin-bottom: 1rem;
+}
+
+.blog-list h3 {
+  margin: 2rem 0 2rem;
+}
+
+.link-button {
+  display: block;
+
+  width: 6rem;
+  margin-top: 1rem;
+  padding: .75rem;
+
+  text-align: center;
+
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  background-color: #568AC6;
+
+  font-size: 1rem;
+}
+
+.link-button:hover {
+  color: #fff;
+  background-color: #355c88;
+}
+
+.page-content .testimonial-img {
+  display: block;
+
+  width: 60px;
+  height: 60px;
+  margin: -1rem auto -1.25rem;
+
+  border-radius: 50%;
+}
+
+.center {
+  text-align: center;
+}
+
+.spacer-bottom {
+  margin-bottom: 2.75rem;
+}
+
+blockquote {
+  color: #8c8c8c;
+
+  font-style: italic;
+}
+
+/* TOP NAV MENU - default mobile view **************************/
+
+.site-header {
+box-shadow: 0 1px 2px #dedede;
+}
+
+main, nav {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* styles + hides the nav list items (except menu icon) until toggled on */
+
+.topnav li:not(:last-child) {
+  display: none;
+
+  margin-bottom: 1.2rem;
+
+  color: #568AC6;
+
+  font-size: 1.1rem;
+}
+
+/* clear bumps the nav below the h1 (when toggled on) */
+.nav-show{
+  clear: left;
+
+  padding: 2rem 0 .5rem ;
+
+  text-align: center;
+
+  border: 1px solid #dedede;
+  background: #eaeaea;
+}
+
+/* makes nav's list items show inline (when toggled on) */
+.nav-show li:not(:last-child) {
+  display: block;
+}
+
+/* positions nav icon on top right */
+.topnav-icon {
+  position: absolute;
+  top: .7rem;
+  right: 2rem;
+
+  font-size: 2.25em;
+}
+
+/**************************************************************/
+
+/* hero section */
+.hero {
+  height: 30rem;
+  padding: 1rem;
+
+  background-color: #eaeaea;
+  background-image: url("../img/grace-hero.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.hero-heading {
+  margin-top: 10rem;
+  margin-right: 2rem;
+
+  text-align: right;
+  letter-spacing: .015em;
+
+  color: #fff;
+
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 300;
+  font-style: normal;
+  line-height: 1.4em;
+}
+
+.hero-heading:hover {
+  color: #fff;
+}
+
+.hero-heading span {
+  display: block;
+}
+
+/* filmmaking+marketing hero-links */
+
+.feature {
+  width: 20rem;
+  margin: 2rem auto 0;
+  padding: 1rem;
+
+  text-align: center;
+}
+
+.feature img {
+  display: block;
+
+  width: 300px;
+  height: 300px;
+  margin: 0 auto 1rem;
+
+  transition: .5s;
+
+  border-radius: 50%;
+  background-color: grey;
+}
+
+.feature:hover img {
+  transition: .5s;
+  transform: scale(1.02);
+}
+
+.feature p {
+  color: #2d2d2d;
+}
+
+.feature:hover h2 {
+  color: #355c88;
+}
+
+/* contact button */
+
+.contact-btn {
+  display: block;
+
+  width: 16rem;
+  margin: 2rem auto 0;
+  padding: 2rem 0;
+
+  transition: .2s;
+  text-align: center;
+
+  border: 1px solid #dbe9f7;
+  border-radius: 25px;
+}
+
+.contact-btn:hover {
+  transition: .2s;
+  transform: scale(1.05);
+
+  border: 1px solid #dbe9f7;
+}
+
+/* general page content wrapper */
+
+.page-content {
+  max-width: 48rem;
+  margin: 2rem auto 0;
+  padding: 0 2rem 0;
+}
+
+.page-content img {
+  width: 100%;
+}
+
+.post-meta {
+  margin: .25rem 0 .25rem;
+
+  font-size: 1rem;
+}
+
+article ul {
+  margin-left: 3rem;
+
+  list-style-type: disc;
+}
+
+/* form styling */
+
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 10px;
+
+  border: 1px solid #dedede;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+input:hover,
+textarea:hover {
+  border: 1px solid #568AC6;
+}
+
+input:focus,
+textarea:focus {
+  border: 1px solid #568AC6;
+  outline: 0;
+  background-color: #f5f8fb;
+}
+
+textarea {
+  height: 15rem;
+}
+
+button {
+  width: 10rem;
+  padding: 1rem;
+
+  transition: .4s;
+
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  background-color: #568AC6;
+}
+
+button:hover {
+  transform: scale(1.02);
+
+  background-color: #355c88;
+}
+
+/* footer */
+
+footer {
+  height: 8rem;
+  margin-top: 4rem;
+
+  text-align: center;
+
+  background: #eaeaea;
+}
+
+.social-icon {
+  display: inline-block;
+
+  margin: 2.2rem .5rem;
+
+  transition: .5s;
+
+  border-radius: 50%;
+}
+
+.social-icon:hover {
+   transition: .2s;
+   transform: scale(1.05);
+
+   box-shadow: 0 2px 5px #bebebe;
+}
+
+/* responsive youtube */
+
+.video-responsive {
+    position:relative;
+
+    overflow:hidden;
+
+    height:0;
+    margin-bottom: 2rem;
+    padding-bottom:56.25%;
+}
+.video-responsive iframe {
+    position:absolute;
+    top:0;
+    left:0;
+
+    width:100%;
+    height:100%;
+}
+
+/*media queries */
+
+@media (min-width: 700px) {
+
+  .video-small {
+    display: inline-block;
+
+    width: calc(50% - 1.5rem);
+  }
+
+  .video-small:nth-of-type(2n) {
+    margin-right: 3rem;
+  }
+
+}
+
+@media (min-width: 800px) {
+
+  /* TOP NAV MENU - secondary full view */
+  /* hides nav icon */
+  .topnav-icon {
+    display: none;
+  }
+
+  /* undoes the default hidden state to display list items (except menu icon) */
+  .topnav li:not(:last-child) {
+    display: inline-block;
+
+    margin-right: 1rem;
+  }
+
+  /* floats list items to the right side of header */
+  .topnav {
+  float: right;
+
+  margin-top: 2.4rem;
+  margin-right: 1.5rem;
+  }
+
+  /* resets .nav-show styling so menu displays properly in case of changing window size w mob nav open */
+  .nav-show{
+    clear: none;
+
+    padding: 0 ;
+
+    background: #ffffff;
+  }
+
+  /* end menu */
+
+  /* filmmaking+marketing hero-links (media query stules)*/
+
+  .feature-container {
+    text-align: center;
+  }
+
+  .feature {
+    display: inline-block;
+  }
+
+  .feature:first-of-type {
+    margin-right: 2rem;
+  }
+
+  /* services boxes */
+
+  .item-box {
+    display: inline-block;
+
+    width: calc(50% - 3rem - 2px);
+    margin-right: 2rem;
+
+    vertical-align: top;
+  }
+
+  .item-box:nth-of-type(2n) {
+    margin-right: 0;
+  }
+
+  .services {
+    height: 15rem;
+  }
+
+  .tall {
+    height: 20.5rem;
+  }
+
+}
+
+
+/* clear fix */
+
+.cf:before,
+.cf:after {
+  display: table;
+
+  content: " ";
+}
+
+.cf:after {
+  clear: both;
+}
