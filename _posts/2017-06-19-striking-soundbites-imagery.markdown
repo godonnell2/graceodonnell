@@ -2,11 +2,11 @@
 layout: post
 title:  "Get killer soundbites and striking imagery for your interviews
 "
-date:   2017-06-04
+date:   2017-06-19
 image: blog-interview.jpg
 ---
 
-![{{page.title}}]({{ site.url }}/img/blog/blog-interview.jpg)
+![{{page.title}}]({{ site.baseurl }}/img/blog/blog-interview.jpg)
 
 An interview is fundamental for a good promotional video, so let’s go over the lighting, set up, and how to get great soundbites.
 

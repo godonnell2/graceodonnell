@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "5 Simple Reasons Why You Need a Corporate Video"
-date:   2017-06-04
+date:   2017-06-17
 image: blog-corporate-video.jpg
 ---
 
-![{{page.title}}]({{ site.url }}/img/blog/blog-corporate-video.jpg)
+![{{page.title}}]({{ site.baseurl }}/img/blog/blog-corporate-video.jpg)
 
 >“Audiences are about 10 times more likely to engage, embed, share, and comment on video content than blogs or related social posts.”
 

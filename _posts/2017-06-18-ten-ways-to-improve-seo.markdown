@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Ten terrific ways to improve your SEO"
-date:   2017-06-09
+date:   2017-06-18
 image: blog-seo-rank.jpg
 ---
 
-![{{page.title}}]({{ site.url }}/img/blog/blog-seo-rank.jpg)
+![{{page.title}}]({{ site.baseurl }}/img/blog/blog-seo-rank.jpg)
 
 Want to watch your rankings rise in Google and other search engines? Then follow these ten strategic points.
 
