@@ -9,9 +9,7 @@ image: blog-seo-rank.jpg
 
 Want to watch your rankings rise in Google and other search engines? Then follow these ten strategic points.
 
-**1) Get natural backlinks.** You can do interviews, it’s not that hard to get interviewed by webzines. Just add yourself to some business Facebook groups and watch out for bloggers etc looking to interview people.
-
-The internet likes website’s that are liked by other websites and the more traffic these websites have the bigger a boost will be given to your SEO.
+**1) Get natural backlinks.** It’s a straightforward process to get interviewed by websites. Add yourself to some business Facebook groups and watch out for opportunities.
 
 **2) Have more pages.** The more pages on your website the better it is for your SEO.
 
