@@ -11,9 +11,11 @@ image: blog-corporate-video.jpg
 
 >Rob Ciampa, Chief Content Officer Magazine
 
-The Education and Training Foundation’s breadth of work had expanded so much that they were having difficulties communicating the extent of their new scope to their users.
+### Issues solved by explainer videos
 
-African Outreach was using their Twitter and Facebook feeds with carefully considered ads and using perfectly written copy in their email campaigns but weren’t seeing much in terms of ROI.
+You're posting carefully considered Twitter and Facebook ads and writing perfect copy in your email campaigns but still not seeing much in terms of ROI.
+
+Your breadth of work has expanded so much that you're having difficulties communicating the extent of your new scope to their users.
 
 If either of those scenarios resonates with you, then maybe it’s time to take a serious look at how explainer videos have been solving these same problems for years.
 
