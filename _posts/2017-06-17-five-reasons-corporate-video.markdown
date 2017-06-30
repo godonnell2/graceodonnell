@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 Simple Reasons Why You Need a Corporate Video"
+title:  "5 Reasons Why You Need a Corporate Video"
 date:   2017-06-17
 image: blog-corporate-video.jpg
 ---
@@ -9,13 +9,13 @@ image: blog-corporate-video.jpg
 
 >“Audiences are about 10 times more likely to engage, embed, share, and comment on video content than blogs or related social posts.”
 
->Rob Ciampa, Chief Content Officer Magazine
+>Pixability
 
 ### Issues solved by explainer videos
 
-You're posting carefully considered Twitter and Facebook ads and writing perfect copy in your email campaigns but still not seeing much in terms of ROI.
+You’re posting carefully considered Twitter and Facebook ads and writing perfect copy in your email campaigns but still not seeing much in terms of ROI.
 
-Your breadth of work has expanded so much that you're having difficulties communicating the extent of your new scope to their users.
+You have expanded hugely the range of services, that your business can now offer to your clients,  but you are failing to communicate all these new possibilities.
 
 If either of those scenarios resonates with you, then maybe it’s time to take a serious look at how explainer videos have been solving these same problems for years.
 
@@ -34,9 +34,9 @@ Whilst videos are growing in popularity, a lot of them are terrible. Create some
 >Business Insider
 
 ### Prestige
-Do you want to build your brand’s prestige? Wow your customers with an epic video which epitomizes what you do.
+Do you want to build your brand’s prestige? Wow your customers with an epic video which captures the essence of what you have to offer.
  
-### Build Your Connections
+### Promote Your Events
 Get the maximum impact from your events by capturing the action with video or even live streaming.
 
 >“Revenue growth: Video ad revenue will increase at a three-year compound annual growth rate (CAGR) of 19.5% through 2016, according to our estimates. That's faster than any other medium other than mobile. And much faster than traditional online display advertising, which will only grow at a 3% annual rate. “
@@ -45,10 +45,8 @@ Get the maximum impact from your events by capturing the action with video or ev
  
 
 ### Intimacy
-It can create an intimacy that other forms of media. Say for instance you snapchat a group lunch, customers get an idea of who you are and really bring your organization to life. 
+Video can create an intimacy with its viewers that is unique to this medium. I'm sure you will all agree with me after viewing the following short clip.  
 
 <div class="video-responsive">
-  <iframe width="100%" height="auto"  src="https://www.youtube.com/embed/TQyYIijyDuk?rel=0&amp;showinfo=0;start=93" frameborder="0" allowfullscreen></iframe>
+  <iframe width="100%" height="auto"  src="https://www.youtube.com/embed/egHjkeiqjrA?rel=0&amp;showinfo=0s" frameborder="0" allowfullscreen></iframe>
 </div>
-
-A unique video I worked on for a Delivery company which was viewed over 90,000 times

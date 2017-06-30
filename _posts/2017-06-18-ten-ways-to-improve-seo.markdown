@@ -23,7 +23,7 @@ Want to watch your rankings rise in Google and other search engines? Then follow
 
 *Don’t*
 * Capitalize
-* Use stop worlds like and or the
+* Use stop worlds "like", "and", "the"
 * Make your urls overly long. Shorter > longer
 * Uses spaces to separate words
 
@@ -33,7 +33,7 @@ Want to watch your rankings rise in Google and other search engines? Then follow
 
 **7) Use sitemap.xml**
 
-A sitemap is a map of all the urls in your site which helps inform search engines what URLs are on your website, this is important so they don’t miss any.  What’s great about using XML sitemap is that you can add include extra info which helps the search engine crawl your website and find new pages quickly. The XML sitemap allows you to specify additional information about each URL. It won’t necessarily improve your ranking but it will help your new content be found faster.
+A sitemap is a map of all the urls in your site which helps inform search engines what URLs are on your website, this is important so they don’t miss any. What’s great about using XML sitemap is that you can include extra info which helps the search engine crawl your website and find new pages quickly. The XML sitemap allows you to specify additional information about each URL. It won’t necessarily improve your ranking but it will help your new content to be found faster.
 
 Here’s a great site to show you how to set up an [XML-Sitemap](http://xml-sitemaps.com)
 
@@ -45,4 +45,4 @@ Here’s a great site to show you how to set up an [XML-Sitemap](http://xml-site
 >
 >[Pieter Levels](https://twitter.com/levelsio)
 
-**10) Diversify.** As with anything in life the more you can Diversify, the better protected you’ll be from change.
+**10) Diversify.** As with anything in life the more you can diversify, the better protected you’ll be from change.
