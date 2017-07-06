@@ -4,6 +4,15 @@
 
   {% seo %}
 
+  <!-- Twitter Tags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+  <meta property="twitter:domain" value="fallinggracefully.com">
+
+
   <link rel="stylesheet" href="{{ "css/normalize.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relative_url }}">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700%7CSansita:400i,700i" rel="stylesheet">
