@@ -19,6 +19,7 @@ description: Grace O Donnel is an award-winning filmmaker and copywriter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fallinggracefully.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title.html
+locale: en_GB
 
 
 twitter_username: films_fg
