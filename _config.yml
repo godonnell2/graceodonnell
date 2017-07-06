@@ -17,10 +17,21 @@ title: Grace O Donnell
 email: contact@fallinggracefully.com
 description: Grace O Donnel is an award-winning filmmaker and copywriter.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/mikeweinhandl/graceodonnell" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://fallinggracefully.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /blog/:title.html
-twitter_username: jekyllrb
-# github_username:  jekyll
+
+
+twitter_username: films_fg
+
+social:
+  name: Grace O Donnell
+  links:
+    - https://twitter.com/films_fg
+    - https://www.linkedin.com/in/grace-o-donnell-8888a640/
+    - https://www.youtube.com/channel/UCQRp126u4rBdf432OMEfQOQ
+    - https://www.instagram.com/falling_gracefully/
+    - https://keybase.io/benbalter
+
 
 # Build settings
 markdown: kramdown
@@ -38,6 +49,8 @@ google_analytics: UA-81634204-1
 gems:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
+
 exclude:
   - Gemfile
   - Gemfile.lock
