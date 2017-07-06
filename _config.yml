@@ -22,7 +22,7 @@ permalink: /blog/:title.html
 locale: en_GB
 
 # Default image for Open Graph tag
-og_image: image: /img/grace-hero.jpg 
+og_image: /img/grace-hero.jpg 
 
 
 twitter_username: films_fg
